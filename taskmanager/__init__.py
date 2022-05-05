@@ -21,4 +21,3 @@ db = SQLAlchemy(app)
 
 from taskmanager import routes  # noqa
 
-
