@@ -20,7 +20,5 @@ else:
 db = SQLAlchemy(app)
 
 from taskmanager import routes  # noqa
-© 2022 GitHub, Inc.
-Terms
 
 
